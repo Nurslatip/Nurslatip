@@ -1,10 +1,33 @@
-- 👋 Hi, I’m @Nurslatip
-- 👀 I’m interested in Machine Learning 
-- 🌱 I’m currently learning Data Science Machine learning carreer path at Codecademy
-- 💞️ I’m looking to collaborate on portfolio projects
-- 📫 How to reach me nursiwork@gmail.com or nursultan_14735 in Discord
-- 😄 Pronouns: he
-- ⚡ Fun fact: Love cats and reading books
+### 👋 Hi there, I'm Nursultan Latibov
+
+🎓 Third-year student at Kyrgyz-Turkish Manas University, majoring in Applied Mathematics and Informatics.
+
+💻 Passionate about Data Science and Machine Learning, with a keen interest in applying AI to solve real-world problems in the medical field.
+
+---
+
+### 🚀 My Focus
+
+My goal is to leverage AI and data to improve healthcare outcomes, whether through predictive diagnostics, medical image analysis, or optimizing patient care.
+
+---
+
+### 🛠️ Skills & Tools
+
+* **Programming:** Python (Pandas, NumPy, Matplotlib), SQL
+* **Machine Learning:** Scikit-learn, Regression, Cross-validation
+* **Deep Learning:** Basics of neural networks (PyTorch / TensorFlow in progress)
+* **Tools:** Git, VS Code, Jupyter, Google Colab
+* **Languages:** Kyrgyz (Native), Russian (Fluent), English (B1), Turkish (Intermediate)
+
+---
+
+### 🤝 Let's Connect
+
+🌐 [LinkedIn](https://www.linkedin.com/in/nursultan-latibov-7bb518333)
+📧 nursiwork@gmail.com
+
+✨ Always open to collaboration and exciting opportunities in Data Science and AI!
 
 <!---
 Nurslatip/Nurslatip is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
