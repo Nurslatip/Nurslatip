@@ -18,13 +18,13 @@ My goal is to leverage AI and data to improve healthcare outcomes, whether throu
 * **Machine Learning:** Scikit-learn, Regression, Cross-validation
 * **Deep Learning:** Basics of neural networks (PyTorch / TensorFlow in progress)
 * **Tools:** Git, VS Code, Jupyter, Google Colab
-* **Languages:** Kyrgyz (Native), Russian (Fluent), English (B1), Turkish (Intermediate)
+* **Languages:** Kyrgyz (Native), Russian (Fluent), English (B2), Turkish (Intermediate)
 
 ---
 
 ### 🤝 Let's Connect
 
-🌐 [LinkedIn](https://www.linkedin.com/in/nursultan-latibov-7bb518333)
+🌐 [LinkedIn](https://www.linkedin.com/in/nursultan-latibov)
 📧 nursiwork@gmail.com
 
 ✨ Always open to collaboration and exciting opportunities in Data Science and AI!
